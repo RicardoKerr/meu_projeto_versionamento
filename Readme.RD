@@ -1,2 +1,0 @@
-Readme
-meu projeto versionamento
