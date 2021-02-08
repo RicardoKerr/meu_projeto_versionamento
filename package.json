@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "nod": "^0.2.0",
+    "node": "^15.7.0",
+    "nodejs": "^0.0.0",
+    "npm": "^7.5.2",
+    "yarn": "^1.22.10"
+  },
+  "name": "meu_projeto_versionamento",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RicardoKerr/meu_projeto_versionamento.git",
+  "author": "RicardoKerr <ricardo.kerr@gmail.com>",
+  "license": "MIT"
+}
